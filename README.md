@@ -1,3 +1,6 @@
-## Curriculo
-    Trabalho Faculdade 
-    1 ano C
+## DADOS PESSOAIS
+    Nome: Miguel Soares da Silva
+    Idade: 18 anos 
+    Naturalidade: Brasileiro
+    User: @Miguelsilbabg
+    
