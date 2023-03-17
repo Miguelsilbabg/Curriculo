@@ -1,6 +1,4 @@
-## DADOS PESSOAIS
-    Nome: Miguel Soares da Silva
-    Idade: 18 anos 
-    Naturalidade: Brasileiro
-    User: @Miguelsilbabg
+## OBJETIVO PROFISSIONAL
+    Objetivo: Procuro uma oportunidade para buscar conhecimento dentro da empresa. Buscando aprimorar meu conhecimento e experiência profissional.
+    
     
