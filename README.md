@@ -14,7 +14,7 @@ MIGUEL SOARES DA SILVA
     Ano de Admissão: 2021.
     
 ## OBJETIVO PROFISSIONAL
-    bjetivo: Procuro uma oportunidade para buscar conhecimento dentro da empresa. Buscando aprimorar meu conhecimento e experiência profissional..
+    Objetivo: Procuro uma oportunidade para buscar conhecimento dentro da empresa. Buscando aprimorar meu conhecimento e experiência profissional..
     
 
    
